@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrigCalculator</string>
+    <string name="enter_a_number">enter a number</string>
+    <string name="radian">radian</string>
+    <string name="degree">degree</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="arcsin">arcsin</string>
+    <string name="arccos">arccos</string>
+    <string name="arctan">arctan</string>
+    <string name="clear">clear</string>
+</resources>
